@@ -71,20 +71,6 @@
 
 如果觉得不错，关注我吧~
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center" style="height=200 width="200">
-          <img src="./img/cpp.jpg" height="200" width="200" ><br>
-          星球
-      </th>
-      <th align="center" style="height=200 width="200">
-          <img src="./img/wechat.jpg" height="200" width="200" ><br>
-          微信公众号
-      </th>
-    </tr>
-  </tbody>
-</table>
 
 
 ### 项目运行
